@@ -77,7 +77,7 @@ Database: (SQL Server)
 Setup Instructions:
 
 1. Clone the repository:
-git clone https://github.com//surya-movies-hub.git
+git clone https://github.com/Surya-1435/SuryaMoviesHub.git
 
 2. Open the project in Visual Studio.
 
