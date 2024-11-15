@@ -1,5 +1,6 @@
 # SuryaMoviesHub
 Surya Movies Hub is a movie streaming application similar to popular platforms like Netflix, built using C#, MVC, HTML, and CSS. It allows users to browse through movie posters and manage them dynamically through CRUD operations (Create, Read, Update, Delete).
+These are some pictures of my project.
 ![Screenshot 2024-11-14 232447](https://github.com/user-attachments/assets/354ca3df-6978-4e57-80d4-cda090f9d08f)
 ![Screenshot 2024-11-14 232543](https://github.com/user-attachments/assets/d454b055-081d-4793-82a4-2533b78120bc)
 ![Screenshot 2024-11-14 233204](https://github.com/user-attachments/assets/b03bbf85-a777-4eb4-be23-59d364024969)
@@ -22,6 +23,26 @@ Surya Movies Hub is designed to simulate the functionality of a movie streaming 
 
 Integrated user authentication and authorization for secure content management. Optimized performance for
 smooth media streaming and efficient content loading.
+
+1. User Roles & Permissions:
+
+You can implement different user roles such as Admin (for clients deploying content) and regular Users (who will access and view the movies).
+
+Admin users should have the ability to manage CRUD operations for movies, while regular users can only view the content.
+
+2. Data Validation:
+
+When clients input movie information (release year, trailer link, etc.), ensure proper validation to maintain data consistency. For example, the release year should be a valid year, and the trailer should be a valid video URL.
+
+3. Search and Filter Features:
+
+Include advanced search options for users to find movies based on categories such as genre, release year, or popularity.
+
+Filters can make it easier for users to navigate through a large catalog of movies.
+
+4. Responsive Design:
+
+Ensure the platform is fully responsive across different devices (desktops, tablets, smartphones), making the movie-watching experience smooth for all users.
 
 Features of the project
 
